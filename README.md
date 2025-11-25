@@ -5,4 +5,5 @@ This is a personal portfolio website for Mehedi Hasan Shawon, a Full Stack Softw
 ## Assignment : 03
 ### Name : Md. Mehedi Hasan Shawon
 ### Email: mhshawon250@gmail.com
-[Live url]
+
+### Live URL: https://mehedi250.github.io/portfolio
