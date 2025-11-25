@@ -49,6 +49,10 @@ body {
     color: var(--primary-color) !important;
 }
 
+.bg-color-primary {
+    background-color: var(--primary-color);
+}
+
 .code-font {
     font-family: 'Roboto Mono', monospace;
 }
